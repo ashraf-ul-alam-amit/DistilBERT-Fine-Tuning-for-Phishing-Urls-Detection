@@ -1,4 +1,4 @@
-# Phishing URL Classification with DistilBERT and LoRA
+# Parameter Efficient Fine-tuning of DistilBERT with LoRA for Phishing URL Detection
 
 ## Overview
 This project focuses on detecting phishing URLs using the `DistilBERT` model, enhanced with **Low-Rank Adaptation (LoRA)** to improve performance. Phishing URLs can trick users into visiting harmful websites, posing a threat to cybersecurity. This model uses text classification to categorize URLs as either **Negative** (non-phishing) or **Positive** (phishing).

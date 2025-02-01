@@ -1,7 +1,3 @@
-Here's a `README.md` template for your project:
-
----
-
 # Phishing URL Classification with DistilBERT and LoRA
 
 ## Overview

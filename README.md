@@ -48,12 +48,6 @@ tokenized_test = test.map(preprocess, batched=True)
 tokenized_val = validate.map(preprocess, batched=True)
 ```
 
-
-### LoRA Configuration
-Here’s a more humanized and shorter version:
-
----
-
 ### LoRA Configuration
 
 Key parts:
